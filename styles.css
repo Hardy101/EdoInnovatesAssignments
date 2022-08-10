@@ -1,0 +1,45 @@
+body {
+  font-family: "Epilogue", sans-serif;
+  background-color: #f0f2f5;
+}
+section {
+  padding: 2rem 0rem 4rem 6rem;
+}
+.navbar {
+  padding: 1rem 3rem;
+}
+.navbar-brand {
+  font-weight: bold;
+  font-size: 30px;
+}
+.nav-item {
+  margin-top: 5px;
+}
+li {
+  list-style-type: none;
+}
+h1 {
+  font-size: 4rem;
+  line-height: 1.1;
+  font-weight: bold;
+}
+.pinky {
+  color: rgba(0, 0, 0, 0.55);
+  margin: 0px 10px;
+  padding: 3px 10px;
+}
+.open {
+  border-radius: 10px;
+  border: 1px solid #555;
+  transition: 0.3s;
+}
+.learn {
+  background-color: #222;
+  border: none;
+  color: #fff;
+  padding: 15px;
+  border-radius: 10px;
+}
+.see-1 {
+  margin-top: 4rem;
+}
